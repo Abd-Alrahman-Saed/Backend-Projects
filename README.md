@@ -1,6 +1,6 @@
 # Backend Projects
 
-A playground repo for practicing backend skills by building **hardcore projects** — no tutorials, no copy-paste. Just for fun and to write some code.
+A playground repo for practicing backend skills by building **hardcode projects** — no tutorials, no copy-paste. Just for fun and to write some code.
 
 ## Why this exists
 
