@@ -98,3 +98,7 @@ Weather API/
 ├── Program.cs                         # DI, Redis, rate limiting, Swagger
 └── appsettings.json
 ```
+
+## Time spent
+
+![Time I spent finishing this project](Images/TimeToken.png)
