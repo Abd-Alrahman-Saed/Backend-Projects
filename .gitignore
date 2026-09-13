@@ -1,0 +1,47 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+_exclude/
+
+# Test results
+[Tt]est[Rr]esult*/
+*.trx
+
+# User-specific files
+*.pfx
+*.p12
+*.snk
+
+# Sensitive configuration
+appsettings.*.local.json
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+*.db-journal
+
+# NuGet
+*.nupkg
+packages/
+
+# OS
+.DS_Store
+Thumbs.db

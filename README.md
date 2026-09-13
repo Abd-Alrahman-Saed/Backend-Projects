@@ -13,7 +13,8 @@ A playground repo for practicing backend skills by building **hardcode projects*
 
 | Project | Description | Stack | Roadmap.sh-URL |
 |---------|-------------|-------|----------------|
-| [TaskTracker](./TaskTracker) | A task tracking service | C# / .NET | [Source website](https://roadmap.sh/projects/task-tracker) |
+| [TaskTracker](./TaskTracker) | A CLI task tracking service | C# / .NET | [Source website](https://roadmap.sh/projects/task-tracker) |
+| [Weather API](./Weather%20API) | Current weather for any city, backed by Redis caching | C# / ASP.NET Core | [Source website](https://roadmap.sh/projects/weather-api) |
 
 More projects will be added as the journey continues.
 
