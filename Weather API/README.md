@@ -2,7 +2,9 @@
 
 A minimal ASP.NET Core Web API that returns the current weather for a given city. It pulls live data from the [Visual Crossing](https://www.visualcrossing.com/) timeline API, caches responses in Redis, and protects the endpoint with rate limiting.
 
-Based on the [weather API project](https://roadmap.sh/projects/weather-api-wrapper-service) from roadmap.sh.
+## Project
+
+https://roadmap.sh/projects/weather-api-wrapper-service
 
 ## Features
 
